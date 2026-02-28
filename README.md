@@ -23,6 +23,18 @@ Persistent Data Storage using MySQL
 This project is designed for educational purposes to understand Python-MySQL integration, database handling, and basic banking logic implementation. While it provides core ATM functionalities, it does not include advanced security features such as password hashing or protection against SQL injection.
 
 
+----------------------------------------
+For audio sound and voice translator:
+pip install deep translator  gtts playsound==1.2.2
+
+
+
+
+
+
+
+
 
 
 ATM Simulation System built using Python and MySQL. It features user registration, login authentication, deposit, withdrawal, and balance display. Uses a menu-driven interface with real-time database updates. Ideal for learning Python-MySQL integration and basic banking operations.
+-----------------------
